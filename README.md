@@ -24,6 +24,13 @@ Trazabilidad completa de convenios de pago, refinanciaciones y estados de cuotas
 
 Diseño de una base de datos con integridad referencial estricta para evitar inconsistencias en saldos históricos.
 
+### 📊 Arquitectura del Modelo de Datos
+Diseño relacional orientado a la gestión integral de convenios, adjudicaciones y trazabilidad de pagos.
+
+![Diagrama de Entidad Relación](./DiagramaIMV.png)
+
+*Nota: El diagrama representa la estructura lógica de la base de datos anonimizada para proteger la integridad del sistema municipal.*
+
 🛠️ Stack Tecnológico Proyectado
 Database: SQL Server (Arquitectura Relacional).
 
